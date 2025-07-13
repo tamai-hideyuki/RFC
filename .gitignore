@@ -1,0 +1,9 @@
+.idea
+.venv
+RFC/
+rfc_out/
+../semantica-notes/apps/backend/memos/rfc_out_v2/
+log/
+backup/
+log_sorted.text
+node_modules/
